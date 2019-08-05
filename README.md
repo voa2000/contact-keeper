@@ -1,3 +1,9 @@
 # Contact-Keeper App
 
-Using Node, express, mongodb, bcrypt,
+Packages used include :
+_ "bcryptjs"
+_ "config"
+_ "express"
+_ "express-validator":
+_ "jsonwebtoken"
+_ "mongoose"
